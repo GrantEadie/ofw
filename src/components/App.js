@@ -10,9 +10,9 @@ function App() {
         focusable="false"
       >
         <linearGradient id="my-cool-gradient" x2="1" y2="1">
-          <stop offset="0%" stopColor="#000046" />
+          <stop offset="0%" stopColor="#3a7bd5" />
           {/* <stop offset="50%" stop-color="#224488" /> */}
-          <stop offset="100%" stopColor="#1CB5E0" />
+          <stop offset="100%" stopColor="#3a6073" />
         </linearGradient>
       </svg>
       <div>
@@ -39,6 +39,7 @@ function App() {
             number="2"
             align="right"
             url="https://open.spotify.com/embed/episode/1qeRzDSTdHWsPJXQJzCh70"
+            img="https://imgur.com/G9qgnRl.jpg"
           />
         </div>
       </div>
